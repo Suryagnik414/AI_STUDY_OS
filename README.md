@@ -1,3 +1,4 @@
+<img width="1867" height="901" alt="Screenshot 2026-04-17 204319" src="https://github.com/user-attachments/assets/cb8716a2-1d9a-44d8-862a-6008dacf6cf8" />
 # 🤖 AI Study OS
 
 > **A self-evolving, AI-powered study management platform for GATE aspirants.**  
@@ -68,6 +69,15 @@ It's not just a tracker — it's a **self-evolving study ecosystem** that uses r
 | **Security** | Server-side API key proxy, CORS protection |
 
 ---
+<img width="1867" height="901" alt="Screenshot 2026-04-17 204319" src="https://github.com/user-attachments/assets/44bbda96-fba4-4e6a-a5b3-01216fc5c425" />
+<img width="1907" height="907" alt="Screenshot 2026-04-17 204345" src="https://github.com/user-attachments/assets/a3a0495b-caea-41e9-a844-d4e7b2db1ed5" />
+<img width="1907" height="883" alt="Screenshot 2026-04-17 204400" src="https://github.com/user-attachments/assets/31781823-8f07-4261-837f-c26ace201568" />
+<img width="1889" height="886" alt="Screenshot 2026-04-17 204416" src="https://github.com/user-attachments/assets/992ece79-d613-4bcf-acdd-41d8000e71d9" />
+<img width="1893" height="889" alt="Screenshot 2026-04-17 204428" src="https://github.com/user-attachments/assets/023852db-c865-42cf-830f-8e1c7b824746" />
+<img width="1874" height="893" alt="Screenshot 2026-04-17 204443" src="https://github.com/user-attachments/assets/4ff1b264-d8cb-403f-b2c9-81d6d559e5c2" />
+<img width="1870" height="893" alt="Screenshot 2026-04-17 204455" src="https://github.com/user-attachments/assets/ba89ab69-4888-4259-9b65-1c27c6e68ee5" />
+
+
 
 ## 🏗️ Architecture
 
